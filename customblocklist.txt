@@ -31,3 +31,9 @@
 0.0.0.0 www.m.youtube.com
 0.0.0.0 fmoviesz.to
 0.0.0.0 9anime.pe
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 speedrunslive.com
+0.0.0.0 www.speedrunslive.com
+0.0.0.0 speedrun.com
+0.0.0.0 www.speedrun.com
