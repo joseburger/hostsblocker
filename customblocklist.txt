@@ -37,3 +37,5 @@
 0.0.0.0 www.speedrunslive.com
 0.0.0.0 speedrun.com
 0.0.0.0 www.speedrun.com
+0.0.0.0 www.amazon.de
+0.0.0.0 amazon.de
