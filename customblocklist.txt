@@ -25,10 +25,6 @@
 0.0.0.0 buhitter.com
 0.0.0.0 www.subscribestar.com
 0.0.0.0 www.twitch.tv
-0.0.0.0 youtube.com
-0.0.0.0 www.youtube.com
-0.0.0.0 m.youtube.com
-0.0.0.0 www.m.youtube.com
 0.0.0.0 fmoviesz.to
 0.0.0.0 9anime.pe
 0.0.0.0 twitch.tv
@@ -41,3 +37,9 @@
 0.0.0.0 amazon.de
 0.0.0.0 wiki.supermetroid.run
 0.0.0.0 www.wiki.supermetroid.run
+0.0.0.0 youtube.com
+0.0.0.0 mobile.youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 www.mobile.youtube.com
+0.0.0.0 baraag.net
+0.0.0.0 www.baraag.net
