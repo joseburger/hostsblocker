@@ -49,3 +49,7 @@
 0.0.0.0 croxyproxy.best
 0.0.0.0 lieferando.at
 0.0.0.0 www.lieferando.at
+0.0.0.0 foodora.at
+0.0.0.0 wwww.foodora.at
+0.0.0.0 wolt.com
+0.0.0.0 www.wolt.com
