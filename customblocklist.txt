@@ -53,3 +53,12 @@
 0.0.0.0 wwww.foodora.at
 0.0.0.0 wolt.com
 0.0.0.0 www.wolt.com
+0.0.0.0 fellashop.com
+0.0.0.0 www.fellashop.com
+0.0.0.0 bsky.app
+0.0.0.0 www.bsky.app
+0.0.0.0 picarto.tv
+0.0.0.0 www.picarto.tv
+0.0.0.0 fellatrix.fanbox.cc
+0.0.0.0 fanbox.cc
+0.0.0.0 linktr.ee
