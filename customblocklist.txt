@@ -1,4 +1,4 @@
-40.114.177.246 duckduckgo.com # forward always to safesearch
+0.0.0.0 duckduckgo.com
 0.0.0.0 sotwe.com
 0.0.0.0 www.sotwe.com
 0.0.0.0 fellatrixarchive.com
@@ -33,14 +33,8 @@
 0.0.0.0 www.speedrunslive.com
 0.0.0.0 speedrun.com
 0.0.0.0 www.speedrun.com
-#0.0.0.0 www.amazon.de
-#0.0.0.0 amazon.de
 0.0.0.0 wiki.supermetroid.run
 0.0.0.0 www.wiki.supermetroid.run
-0.0.0.0 youtube.com
-0.0.0.0 mobile.youtube.com
-0.0.0.0 www.youtube.com
-0.0.0.0 www.mobile.youtube.com
 0.0.0.0 baraag.net
 0.0.0.0 www.baraag.net
 0.0.0.0 www.croxyproxy.com
